@@ -1,0 +1,6 @@
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Asignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Asignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Asignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Asignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Asignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\sipuu\OneDrive\Documents\Visual Studio 2019\Projects\Asignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
